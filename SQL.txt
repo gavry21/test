@@ -1,0 +1,2 @@
+SELECT name FROM t_article 
+WHERE price >= 488;
