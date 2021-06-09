@@ -6,7 +6,6 @@ function fiftyPercent(obj) {
     result = price + price/100*15;
     result = Math.ceil(result/5)*5;
     obj[k] = result;
-    console.log(obj[k]);
     }
   }
 let product = {
