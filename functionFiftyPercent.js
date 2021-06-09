@@ -9,7 +9,6 @@ function fiftyPercent(obj) {
     console.log(obj[k]);
     }
   }
-
 let product = {
     "apple": 800,
     "banana": 600,
